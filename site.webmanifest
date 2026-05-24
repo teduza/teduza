@@ -1,0 +1,22 @@
+{
+  "name": "M.A.R.S. Companion",
+  "short_name": "M.A.R.S.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081018",
+  "theme_color": "#081018",
+  "description": "M.A.R.S. Companion is a fully offline AI voice companion with long-term semantic memory running entirely locally on your device.",
+  "icons": [
+    {
+      "src": "./web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

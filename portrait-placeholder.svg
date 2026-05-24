@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-label="Gray portrait silhouette placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2c3440"/>
+      <stop offset="100%" stop-color="#151b22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="28%" r="70%">
+      <stop offset="0%" stop-color="#7d8998" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7d8998" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="800" rx="40" fill="url(#bg)"/>
+  <rect width="640" height="800" rx="40" fill="url(#glow)"/>
+  <circle cx="320" cy="270" r="112" fill="#9aa3ad" fill-opacity="0.78"/>
+  <path d="M180 690c0-104 63-168 140-168s140 64 140 168" fill="#9aa3ad" fill-opacity="0.78"/>
+  <path d="M220 314c0 73 45 130 100 130s100-57 100-130c0-28-6-48-17-64-17 34-48 56-83 56s-66-22-83-56c-11 16-17 36-17 64z" fill="#7f8892" fill-opacity="0.86"/>
+  <rect x="36" y="36" width="568" height="728" rx="34" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="4"/>
+</svg>
