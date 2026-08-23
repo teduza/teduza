@@ -1,0 +1,113 @@
+M.A.R.S. Companion
+
+M.A.R.S. Companion is a fully offline AI voice companion developed by M.A.R.S. Companion LLC.
+
+It is designed as a private, personal AI system that runs entirely locally on the user's hardware, without cloud dependency, mandatory accounts, subscriptions, or transmission of conversations to external servers.
+
+Product
+
+M.A.R.S. Companion is a Mobile Autonomous Reasoning System focused on private, local AI interaction and long-term semantic memory.
+
+Core characteristics:
+
+- 100% local AI processing
+- Fully offline operation
+- Long-term semantic conversational memory
+- Context-aware reasoning
+- Speech-to-text processing
+- Speech synthesis
+- No cloud dependency
+- No mandatory account
+- No subscription
+- No conversational data harvesting
+- Physical-button activation rather than a wake word
+- Designed for private, personal use
+
+Core Technology
+
+M.A.R.S. uses a custom execution architecture called Sequential Resource Orchestration.
+
+The architecture dynamically loads and unloads computationally intensive AI components in a controlled sequence. This is designed to make complex reasoning and long-term memory possible on constrained hardware.
+
+The prototype has been tested on Raspberry Pi 4 with 4 GB RAM.
+
+Privacy
+
+Privacy is a fundamental design principle of M.A.R.S. Companion.
+
+The system is designed so that voice conversations, memories, and AI processing remain on the user's device rather than being sent to cloud AI services.
+
+The hardware architecture also incorporates device-specific encryption keys. Unauthorized access to protected storage is designed to make the stored data unreadable.
+
+Prototype
+
+A functional M.A.R.S. Companion prototype exists.
+
+The prototype implements an offline pipeline including:
+
+1. Speech-to-text
+2. Semantic memory retrieval
+3. Context-aware reasoning
+4. Speech synthesis
+
+The prototype has been tested by the founder and additional users.
+
+Development Status
+
+M.A.R.S. Companion is currently in the prototype and development stage.
+
+The roadmap includes further hardware refinement, component sourcing, closed beta testing, and a limited hardware release.
+
+Intellectual Property
+
+M.A.R.S. Companion has pending UK patent applications.
+
+Patent priority information published on the website includes GB2611463.7 with a priority date of 15 May 2026.
+
+Company
+
+M.A.R.S. Companion LLC is the company developing M.A.R.S. Companion.
+
+The company was officially registered on 17 August 2026.
+
+Founder
+
+Aleksandr Sarkisian is the inventor and founder of M.A.R.S. Companion.
+
+Official Websites
+
+Main product website:
+https://teduza.com/
+
+Company website:
+https://company.teduza.com/
+
+Important Pages
+
+Why M.A.R.S.:
+https://teduza.com/#why
+
+Core technology:
+https://teduza.com/#core
+
+Prototype:
+https://teduza.com/#prototype
+
+Team:
+https://teduza.com/#team
+
+Profiles:
+https://teduza.com/#profiles
+
+Patents:
+https://teduza.com/#patents
+
+Contact:
+https://teduza.com/#contact
+
+Contact
+
+M.A.R.S. Companion is open to technical discussions, academic feedback, demonstrations, and collaboration opportunities.
+
+Official website:
+https://teduza.com/
