@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.aistudio/
+.env*
+metadata.json
+bun.lock
+package.json
+package-lock.json
+tsconfig.json
+vite.config.ts
+src/
+*.log
+.DS_Store

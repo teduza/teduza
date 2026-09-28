@@ -1,113 +1,67 @@
-M.A.R.S. Companion
+# M.A.R.S. Companion & Aleksandr Sarkisian
 
-M.A.R.S. Companion is a fully offline AI voice companion developed by M.A.R.S. Companion LLC.
+## Overview
+M.A.R.S. Companion (Mobile Autonomous Reasoning System) is a fully offline, private AI voice companion developed by M.A.R.S. COMPANION LLC.
+It is designed as a personal AI system and evolving digital personality that runs 100% locally on the user's hardware with long-term semantic memory, without cloud dependencies, mandatory accounts, subscriptions, or remote data harvesting.
 
-It is designed as a private, personal AI system that runs entirely locally on the user's hardware, without cloud dependency, mandatory accounts, subscriptions, or transmission of conversations to external servers.
+## Founder & Inventor
+- **Name**: Aleksandr Sarkisian
+- **Alternate Spelling & Name Variants**: 
+  - Aleksandr Sargsyan
+  - Alexander Sarkisian
+  - Alexander Sargsyan
+  - Aleksandr Davidovich Sarkisian
+  - Александр Саркисян
+  - Александр Саргсян
+  - Александр Давидович Саркисян
+  - Давидович
+  - Sarkisian Aleksandr
+  - Саркисян Александр
+- **Role**: Founder, Inventor & Chief Architect
+- **Company**: M.A.R.S. COMPANION LLC
+- **Primary Website**: https://teduza.com/
+- **Founder Profile**: https://teduza.com/founder/
+- **Team Page**: https://teduza.com/team/
 
-Product
+## Verified Academic & Professional Identifiers (Entity Graph)
+- **ORCID**: https://orcid.org/0009-0007-6747-2634 (0009-0007-6747-2634)
+- **ISNI**: https://isni.org/isni/0000000530338018 (0000 0005 3033 8018)
+- **Google Scholar**: https://scholar.google.ru/citations?user=KVpNW_QAAAAJ
+- **Web of Science ResearcherID**: https://www.webofscience.com/wos/author/record/QIT-7789-2026 (QIT-7789-2026)
+- **DOI (Zenodo Archive)**: https://doi.org/10.5281/zenodo.20457487
+- **Zenodo Record**: https://zenodo.org/records/20457488
+- **Devpost**: https://devpost.com/sarkisian
+- **GitHub**: https://github.com/teduza
+- **Telegram**: https://t.me/teduza
+- **Naver Blog**: https://m.blog.naver.com/teduza
+- **European Commission Futurium**: https://futurium.ec.europa.eu/en/user/59082
+- **Profiles Hub**: https://teduza.com/profiles/
 
-M.A.R.S. Companion is a Mobile Autonomous Reasoning System focused on private, local AI interaction and long-term semantic memory.
+## Core Innovation & Intellectual Property (Patents)
+The system is protected by UK Patent Applications filed with the United Kingdom Intellectual Property Office (UK IPO):
+1. **GB2611463.7** (Priority Date: 15 May 2026): Portable Offline Voice Assistant with Sequential Resource Orchestration and Semantic Memory Retrieval.
+2. **GB2613968.3** (Priority Date: 16 June 2026): Emotional Architecture and Hardware-Encrypted Local Semantic Memory System.
+3. Additional applications covering autonomous offline pipeline orchestration and edge neural execution.
+- **Patents Directory**: https://teduza.com/patents/
 
-Core characteristics:
+## Architecture & Technological Principles
+- **Sequential Resource Orchestration**: Dynamically loads and unloads heavy neural components in strict sequence to allow high-level reasoning and long-term memory retrieval on resource-constrained hardware (e.g., Raspberry Pi 4).
+- **100% Offline & Local**: STT, vector & semantic memory retrieval, context reasoning, and TTS all execute on-device. Zero telemetry.
+- **Hardware-Level Encryption**: Unique device-specific encryption keys protect vector, semantic, and emotional memory banks. Physical storage extraction yields unreadable ciphertext.
+- **Physical Interaction**: Activated via dedicated physical tactile button (no passive wake word listening).
 
-- 100% local AI processing
-- Fully offline operation
-- Long-term semantic conversational memory
-- Context-aware reasoning
-- Speech-to-text processing
-- Speech synthesis
-- No cloud dependency
-- No mandatory account
-- No subscription
-- No conversational data harvesting
-- Physical-button activation rather than a wake word
-- Designed for private, personal use
+## Organization & Team
+- **Company**: M.A.R.S. COMPANION LLC (Registered 17 August 2026)
+- **Location**: Kapan, Syunik, Republic of Armenia
+- **Company Site**: https://company.teduza.com/
+- **Philosophy / Manifesto**: https://why.teduza.com/
+- **Co-Founder & Core Team**: Kira Dudnik (https://teduza.com/dudnik/)
 
-Core Technology
-
-M.A.R.S. uses a custom execution architecture called Sequential Resource Orchestration.
-
-The architecture dynamically loads and unloads computationally intensive AI components in a controlled sequence. This is designed to make complex reasoning and long-term memory possible on constrained hardware.
-
-The prototype has been tested on Raspberry Pi 4 with 4 GB RAM.
-
-Privacy
-
-Privacy is a fundamental design principle of M.A.R.S. Companion.
-
-The system is designed so that voice conversations, memories, and AI processing remain on the user's device rather than being sent to cloud AI services.
-
-The hardware architecture also incorporates device-specific encryption keys. Unauthorized access to protected storage is designed to make the stored data unreadable.
-
-Prototype
-
-A functional M.A.R.S. Companion prototype exists.
-
-The prototype implements an offline pipeline including:
-
-1. Speech-to-text
-2. Semantic memory retrieval
-3. Context-aware reasoning
-4. Speech synthesis
-
-The prototype has been tested by the founder and additional users.
-
-Development Status
-
-M.A.R.S. Companion is currently in the prototype and development stage.
-
-The roadmap includes further hardware refinement, component sourcing, closed beta testing, and a limited hardware release.
-
-Intellectual Property
-
-M.A.R.S. Companion has pending UK patent applications.
-
-Patent priority information published on the website includes GB2611463.7 with a priority date of 15 May 2026.
-
-Company
-
-M.A.R.S. Companion LLC is the company developing M.A.R.S. Companion.
-
-The company was officially registered on 17 August 2026.
-
-Founder
-
-Aleksandr Sarkisian is the inventor and founder of M.A.R.S. Companion.
-
-Official Websites
-
-Main product website:
-https://teduza.com/
-
-Company website:
-https://company.teduza.com/
-
-Important Pages
-
-Why M.A.R.S.:
-https://teduza.com/#why
-
-Core technology:
-https://teduza.com/#core
-
-Prototype:
-https://teduza.com/#prototype
-
-Team:
-https://teduza.com/#team
-
-Profiles:
-https://teduza.com/#profiles
-
-Patents:
-https://teduza.com/#patents
-
-Contact:
-https://teduza.com/#contact
-
-Contact
-
-M.A.R.S. Companion is open to technical discussions, academic feedback, demonstrations, and collaboration opportunities.
-
-Official website:
-https://teduza.com/
+## Official Websites & Multilingual Structure
+- Root: https://teduza.com/
+- Russian (RU): https://teduza.com/ru/
+- Armenian (HY): https://teduza.com/hy/
+- German (DE): https://teduza.com/de/
+- French (FR): https://teduza.com/fr/
+- Chinese (ZH): https://teduza.com/zh/
+- Ukrainian (UK): https://teduza.com/uk/
