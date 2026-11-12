@@ -56,7 +56,7 @@
       "url": "https://teduza.com/founder/",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/%D0%A1%D0%B0%D1%80%D0%BA%D0%B8%D1%81%D1%8F%D0%BD_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87.jpg",
       "jobTitle": "Founder, Inventor & Chief Architect",
-      "description": "Founder and Inventor of M.A.R.S. Companion — fully offline voice AI companion with long-term semantic memory and Sequential Resource Orchestration. Director of M.A.R.S. COMPANION LLC.",
+      "description": "Founder and Inventor of M.A.R.S. Companion — fully offline voice AI companion with long-term semantic memory and Sequential Resource Orchestration. Director of M.A.R.S. COMPANION LLC and named inventor on 26 UK patent applications.",
       "worksFor": {
         "@type": "Organization",
         "@id": "https://teduza.com/#organization",
@@ -81,15 +81,36 @@
         "Sequential Resource Orchestration",
         "Edge AI Computing",
         "Cognitive Architecture",
+        "M.A.R.S. Companion",
+        "M.A.R.S. COMPANION LLC",
+        "Teduza",
+        "M.A.R.S. OS",
+        "GB2626659.3",
+        "GB2626660.1",
+        "GB2626661.9",
+        "GB2626662.7",
+        "GB2626663.5",
+        "GB2626665.0",
+        "GB2626666.8",
+        "GB2626667.6",
+        "GB2626668.4",
+        "GB2626669.2",
+        "GB2626670.0",
+        "GB2626672.6",
+        "GB2626673.4",
+        "GB2626674.2",
+        "GB2624388.1",
+        "GB2624406.1",
+        "GB2624409.5",
+        "GB2624414.5",
+        "GB2624415.2",
+        "GB2624416.0",
         "GB2611463.7",
         "GB2613965.9",
-        "GB2613966.7",
         "GB2613968.3",
         "GB2613969.1",
         "GB2613970.9",
-        "M.A.R.S. Companion",
-        "M.A.R.S. COMPANION LLC",
-        "Teduza"
+        "GB2614145.7"
       ],
       "sameAs": [
         "https://www.wikidata.org/wiki/Q141447666",
@@ -184,6 +205,26 @@
         "https://why.teduza.com",
         "https://teduza.com",
         "https://t.me/teduza"
+      ],
+      "member": [
+        {
+          "@id": "https://teduza.com/#aleksandr-sarkisian"
+        },
+        {
+          "@id": "https://teduza.com/#vice-president"
+        },
+        {
+          "@id": "https://teduza.com/#engineer"
+        },
+        {
+          "@id": "https://teduza.com/#kira-dudnik"
+        },
+        {
+          "@id": "https://teduza.com/#marketer"
+        },
+        {
+          "@id": "https://teduza.com/#mars-001"
+        }
       ]
     },
     {
@@ -1528,7 +1569,7 @@ body.leaving::after{opacity:1}
       <nav aria-label="Language switcher" class="lang-switcher">
         <a href="../../profiles/">EN</a><a href="../../ru/profiles/">RU</a><a class="active" href="../../hy/profiles/">HY</a><a href="../../de/profiles/">DE</a><a href="../../fr/profiles/">FR</a><a href="../../zh/profiles/">中文</a><a href="../../uk/profiles/">UA</a>
       </nav>
-      <a class="back-link" href="../../">← Ետ</a>
+      <a class="back-link" href="../../hy/">← Ետ</a>
   
     </div>
     <div class="topbar-mobile-actions">
@@ -1734,6 +1775,11 @@ window.__cosmicScene = scene;
   var overlay = document.createElement('div');
   overlay.className = 'warp-overlay';
   document.body.appendChild(overlay);
+  window.addEventListener('pageshow', function(){
+    overlay.classList.remove('active');
+    document.body.classList.remove('leaving', 'preload');
+    document.body.classList.add('ready');
+  });
 
   document.addEventListener('click', function(e){
     var link = e.target.closest('a[href]');
